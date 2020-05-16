@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1cf02458-8e90-46d9-aa71-229a37708399" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UdGPaqHbOSfMx37mEAoFoWJgaf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../test" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.courses_manege" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.mian">
+    <configuration name="PersonTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.courses_manege.PersonTest" />
+      <module name="java_design" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.courses_manege.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScheduleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.courses_manege.ScheduleTest" />
+      <module name="java_design" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.courses_manege.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.courses_manege.StudentTest" />
+      <module name="java_design" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.courses_manege.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TeacherTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.courses_manege.TeacherTest" />
+      <module name="java_design" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.courses_manege.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mian" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.courses_manege.mian" />
+      <module name="java_design" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.courses_manege.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.mian" />
+        <item itemvalue="Application.TeacherTest" />
+        <item itemvalue="Application.StudentTest" />
+        <item itemvalue="Application.ScheduleTest" />
+        <item itemvalue="Application.PersonTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1cf02458-8e90-46d9-aa71-229a37708399" name="Default Changelist" comment="" />
+      <created>1575679035410</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575679035410</updated>
+      <workItem from="1575679037052" duration="1000" />
+      <workItem from="1575679043296" duration="5795000" />
+      <workItem from="1575730208035" duration="399000" />
+      <workItem from="1575732886291" duration="658000" />
+      <workItem from="1575816208522" duration="5313000" />
+      <workItem from="1575859140779" duration="9931000" />
+      <workItem from="1575944472739" duration="11201000" />
+      <workItem from="1576150527895" duration="121000" />
+      <workItem from="1576155744434" duration="678000" />
+      <workItem from="1576208268656" duration="2069000" />
+      <workItem from="1576255057400" duration="23000" />
+      <workItem from="1576285956548" duration="8312000" />
+      <workItem from="1576421827055" duration="6680000" />
+      <workItem from="1576475220447" duration="16794000" />
+      <workItem from="1576517989605" duration="19000" />
+      <workItem from="1576565036946" duration="65000" />
+      <workItem from="1576741799874" duration="3000" />
+      <workItem from="1576757705673" duration="82000" />
+      <workItem from="1576827147951" duration="22000" />
+      <workItem from="1578462271033" duration="967000" />
+      <workItem from="1578820273166" duration="58000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="695" y="146" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1576501565318">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="695" y="146" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1576501565318" />
+    <state x="765" y="45" key="#com.intellij.ide.util.MemberChooser" timestamp="1575817858878">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="765" y="45" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1575817858878" />
+    <state x="435" y="169" key="#com.intellij.refactoring.move.moveInstanceMethod.MoveInstanceMethodDialog" timestamp="1575949725348">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="435" y="169" key="#com.intellij.refactoring.move.moveInstanceMethod.MoveInstanceMethodDialog/0.0.1280.680@0.0.1280.680" timestamp="1575949725348" />
+    <state x="629" y="59" key="#xdebugger.evaluate" timestamp="1576503873030">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="629" y="59" key="#xdebugger.evaluate/0.0.1280.680@0.0.1280.680" timestamp="1576503873030" />
+    <state x="397" y="247" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1575976082683">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="397" y="247" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1280.680@0.0.1280.680" timestamp="1575976082683" />
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1575952906334">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1575952906334" />
+    <state width="595" height="312" key="GridCell.Tab.0.bottom" timestamp="1576515779920">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="595" height="312" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1576515779920" />
+    <state width="595" height="312" key="GridCell.Tab.0.center" timestamp="1576515779920">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="595" height="312" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1576515779920" />
+    <state width="595" height="312" key="GridCell.Tab.0.left" timestamp="1576515779920">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="595" height="312" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1576515779920" />
+    <state width="595" height="312" key="GridCell.Tab.0.right" timestamp="1576515779920">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="595" height="312" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1576515779920" />
+    <state width="595" height="312" key="GridCell.Tab.1.bottom" timestamp="1576515779921">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="595" height="312" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1576515779921" />
+    <state width="595" height="312" key="GridCell.Tab.1.center" timestamp="1576515779921">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="595" height="312" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1576515779921" />
+    <state width="595" height="312" key="GridCell.Tab.1.left" timestamp="1576515779920">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="595" height="312" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1576515779920" />
+    <state width="595" height="312" key="GridCell.Tab.1.right" timestamp="1576515779921">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="595" height="312" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1576515779921" />
+    <state x="0" y="0" key="SettingsEditor" timestamp="1575949327253">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1575949327253" />
+    <state x="213" y="194" key="com.intellij.ide.util.TipDialog" timestamp="1578820315649">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="213" y="194" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1578820315649" />
+    <state x="371" y="105" key="extract.method.dialog" timestamp="1576429000650">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="105" key="extract.method.dialog/0.0.1280.680@0.0.1280.680" timestamp="1576429000650" />
+    <state x="28" y="0" key="new project wizard" timestamp="1576150646052">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="28" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1576150646052" />
+    <state x="623" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1576501949318">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="623" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1576501949318" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/courses_manege/MyfieTest.java</url>
+          <line>68</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="people[0]" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
